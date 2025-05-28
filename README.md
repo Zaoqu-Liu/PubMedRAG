@@ -1,20 +1,13 @@
 # 🧬 PubMedRAG
 
-<div align="center">
+<div>
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PyPI version](https://badge.fury.io/py/pubmedrag.svg)](https://badge.fury.io/py/pubmedrag)
-[![Downloads](https://pepy.tech/badge/pubmedrag)](https://pepy.tech/project/pubmedrag)
-[![GitHub stars](https://img.shields.io/github/stars/Zaoqu-Liu/PubMedRAG.svg?style=social&label=Star)](https://github.com/Zaoqu-Liu/PubMedRAG)
+[![License: MIT](https://img.shields.io/badge/License-GPL3.0-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**🔬 Question-Driven Medical Literature Research Assistant**
+**🔬 Question-Driven BioMedical Literature Research Assistant**
 
 *Ask questions, get evidence-based answers from PubMed literature with automatic citations*
-
-[📖 Documentation](#-documentation) • [🚀 Quick Start](#-quick-start) • [💡 Examples](#-examples) • [🛠️ API Reference](#️-api-reference) • [🤝 Contributing](#-contributing)
-
----
 
 ### ✨ Transform your research workflow
 
