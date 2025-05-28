@@ -24,10 +24,6 @@
 ### Installation
 
 ```bash
-# Install from PyPI
-pip install pubmedrag
-
-# Or install from source
 git clone https://github.com/Zaoqu-Liu/PubMedRAG.git
 cd PubMedRAG
 pip install -e .
