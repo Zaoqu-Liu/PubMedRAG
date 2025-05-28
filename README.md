@@ -3,7 +3,7 @@
 <div>
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-GPL3-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub stars](https://img.shields.io/github/stars/Zaoqu-Liu/PubMedRAG.svg?style=social&label=Star)](https://github.com/Zaoqu-Liu/PubMedRAG)
 
 **🔬 Question-Driven Medical Literature Research Assistant**
