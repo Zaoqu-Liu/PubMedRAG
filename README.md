@@ -1,11 +1,9 @@
 # 🧬 PubMedRAG
 
-<div align="center">
+<div>
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PyPI version](https://badge.fury.io/py/pubmedrag.svg)](https://badge.fury.io/py/pubmedrag)
-[![Downloads](https://pepy.tech/badge/pubmedrag)](https://pepy.tech/project/pubmedrag)
 [![GitHub stars](https://img.shields.io/github/stars/Zaoqu-Liu/PubMedRAG.svg?style=social&label=Star)](https://github.com/Zaoqu-Liu/PubMedRAG)
 
 **🔬 Question-Driven Medical Literature Research Assistant**
