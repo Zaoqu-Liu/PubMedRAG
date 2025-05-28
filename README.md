@@ -4,7 +4,7 @@
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-GPL3-yellow.svg)](https://opensource.org/licenses/GPL3)
-[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+[![GitHub](https://img.shields.io/badge/GitHub-PubMedRAG-blue?logo=github)](https://github.com/Zaoqu-Liu/PubMedRAG)
 [![GitHub stars](https://img.shields.io/github/stars/Zaoqu-Liu/PubMedRAG.svg?style=social&label=Star)](https://github.com/Zaoqu-Liu/PubMedRAG)
 
 **Question-Driven Biomedical Literature Research Assistant**
@@ -690,9 +690,8 @@ If PubMedRAG contributes to your research, please cite:
 
 ---
 
-<div align="center">
+<div>
 
-[![GitHub](https://img.shields.io/badge/GitHub-PubMedRAG-blue?logo=github)](https://github.com/Zaoqu-Liu/PubMedRAG)
 [![Star History Chart](https://api.star-history.com/svg?repos=Zaoqu-Liu/PubMedRAG&type=Date)](https://star-history.com/#Zaoqu-Liu/PubMedRAG&Date)
 
 [⬆️ Back to Top](#-pubmedrag)
